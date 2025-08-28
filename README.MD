@@ -5,6 +5,7 @@ This folder contains various Python projects completed as part of the PLP Softwa
 ## Projects
 
 - **intro-to-python.py**: A simple calculator program that performs basic arithmetic operations (+, -, *, /) based on user input.
+- **built-in-data-structures.py**: Demonstrates basic list operations in Python, including appending, inserting, extending, removing, sorting, and finding the index of an element.
 
 ## Getting Started
 
@@ -12,4 +13,4 @@ This folder contains various Python projects completed as part of the PLP Softwa
 2. Clone or download this repository.
 3. Run any project using:
    ```sh
-   python3 <project-file>.py
+   python <project-file>.py
