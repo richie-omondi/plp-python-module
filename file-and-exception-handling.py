@@ -1,4 +1,4 @@
-# File and Exception Handling
+# File Read and Write with Exception Handling
 
 filename = input("Enter the filename to read: ")
 
@@ -20,7 +20,7 @@ else:
     except IOError:
         print("Error: Could not write to the new file.")
 
-# File Read & Write Challenge and Error Handling Lab
+# Error Handling
 
 filename = input("Enter the filename to read: ")
 
